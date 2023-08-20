@@ -1,0 +1,84 @@
+[
+    {
+        "id": 1,
+        "titulo": "Silla",
+        "descripcion": "madera",
+        "categoria": "silla",
+        "imagen": "https://solsken.com.ar//wp-content/uploads/2021/08/Silla-Baru-sin-apoyabrazos.jpg",
+        "precio": 1500,
+        "stock": 10
+    },
+    {
+        "id": 2,
+        "titulo": "Silla",
+        "descripcion": " madera",
+        "categoria": "silla",
+        "imagen": "https://solsken.com.ar//wp-content/uploads/2021/09/tokyo-con-1.png",
+        "precio": 1500,
+        "stock": 10
+    },
+    {
+        "id": 3,
+        "titulo": "Mesa",
+        "descripcion": "plastico",
+        "categoria": "mesa",
+        "imagen": "https://d2r9epyceweg5n.cloudfront.net/stores/002/097/972/products/mesa-comedor-rinni-11-a07afa5e711623aecd16524112571430-320-0.jpg",
+        "precio": 1500,
+        "stock": 10
+    },
+    {
+        "id": 4,
+        "titulo": "Mesa",
+        "descripcion": "plastico",
+        "categoria": "mesa",
+        "imagen": "https://d2r9epyceweg5n.cloudfront.net/stores/002/097/972/products/mesa-azul2-1911-05312bbe68c3c8ff5716524131858144-320-0.jpg",
+        "precio": 1500,
+        "stock": 10
+    },
+    {
+        "id": 5,
+        "titulo": "Plato",
+        "descripcion": "ceramica",
+        "categoria": "plato",
+        "imagen": "https://i.pinimg.com/564x/4b/00/9c/4b009c70672ff535be222c1f43ff0dfa.jpg",
+        "precio": 1500,
+        "stock": 10
+    },
+    {
+        "id": 6,
+        "titulo": "Plato",
+        "descripcion": "ceramica",
+        "categoria": "plato",
+        "imagen": "https://i.pinimg.com/564x/78/99/f0/7899f07e6f95ab009810831e7b92d987.jpg",
+        "precio": 1500,
+        "stock": 10
+    },
+    {
+        "id": 7,
+        "titulo": "Plato",
+        "descripcion": "ceramica",
+        "categoria": "plato",
+        "imagen": "https://i.pinimg.com/564x/f6/7f/42/f67f427866e0b71382deed4417d94c07.jpg",
+        "precio": 1500,
+        "stock": 10
+    },
+    {
+        "id": 8,
+        "titulo": "Silla",
+        "descripcion": "madera",
+        "categoria": "silla",
+        "imagen": "https://i.pinimg.com/564x/97/4b/04/974b04b0969f61e169bdf279a60ba17b.jpg",
+        "precio": 1500,
+        "stock": 10
+    },
+    {
+        "id": 9,
+        "titulo": "Mesa",
+        "descripcion": "plastico",
+        "categoria": "mesa",
+        "imagen": "https://i.pinimg.com/564x/8b/4e/1c/8b4e1c1b4cf45960ed7d8970b14bbd6f.jpg",
+        "precio": 1500,
+        "stock": 10
+    }
+
+]
